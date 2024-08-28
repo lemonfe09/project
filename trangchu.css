@@ -1,0 +1,52 @@
+.nav-link{
+    color: wheat;
+}
+
+.nav1,.nav3{
+    background-color: rgb(245, 245, 245);
+}
+.nav1,.nav2,.nav3{
+    height: auto;
+}
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.card{
+    position: relative;
+}
+
+.card-img{
+position: absolute;
+bottom: 5%;
+left: 5%;
+}
+.btn{
+color: white;
+background-color: black;
+border: none;
+font-weight: bold;
+}
+.card-img>.card-title{
+    color: black;
+    font-weight: bold;
+}
+.p-5{
+    font-size: larger;
+}
+.pe-5>p{
+    color: rgb(126, 126, 126);
+    font-size: smaller ;
+}
+
+
+.ft>.fa{
+    color: white;
+}

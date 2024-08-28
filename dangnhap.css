@@ -1,0 +1,62 @@
+.nav-link{
+    color: wheat;
+}
+
+.nav1,.nav3{
+    background-color: rgb(245, 245, 245);
+}
+.nav1,.nav2,.nav3{
+    height: auto;
+}
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+.ft>.fa{
+    color: white;
+}
+/* -------------------------------------- */
+.btn{
+    background-color: black ;
+    color: white;
+}
+.btn:hover{
+    font-weight: bolder;
+    border: 1px solid black;
+}
+
+.rounded-circle{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+
+.container-md{
+    width: 350px;
+    height: 500px;
+    border: 1px solid black;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: rgb(240, 240, 240);
+}
+
+.mb-3 label{
+    font-weight: bold;
+}
+
+form{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 50px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    height: 500px;
+    background-color: rgb(245, 245, 245);
+    border-radius:20px;
+    border: 1px solid black;
+}

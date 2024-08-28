@@ -1,0 +1,53 @@
+
+.nav-link{
+    color: wheat;
+}
+
+.nav1,.nav3{
+    background-color: rgb(245, 245, 245);
+}
+.nav1,.nav2,.nav3{
+    height: auto;
+}
+
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+.ft>.fa{
+    color: white;
+}
+
+/* -------------------------------------------------------------------------------------- */
+
+td >img{
+    height: 100%;
+    width: 100%;
+}
+
+a{
+    color: black;
+    text-decoration:none ;
+    font-weight: bold;
+    font-size: 100%;
+}
+a>i{
+    margin-bottom: 20%;
+}
+.cot1{
+    background: rgb(246, 246, 246);
+}
+.cot2>.btn{
+    float: right;
+    background: darkred;
+    color: white;
+    font-weight: bold;
+}
+td>.btn{
+    background-color: white;
+    border: 1px solid rgb(229, 229, 229);
+    font-weight: 500;
+}
+.cot2>.btn{
+    background-color: black;
+}
